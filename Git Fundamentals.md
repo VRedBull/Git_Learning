@@ -1,0 +1,13 @@
+- **git init** - intialize a git repo
+  - this command will make a .git folder
+- **git add** <file name> -  Add one or more files to the staging area.
+- **git commit** **-m** "*Some kind of commit message*" - Commits the changes to the head. 
+- **git commit -am** "Some message" - Adds and commits the file
+- **git status** - Lists the files you've changed and those you've added.
+- The **Head** is where we added the last file.
+- **git log** - this command will us the whole history of things we did
+- **git rm --cached** <file name> - To remove the files from the staging area(Unstage).
+- **git branch** <Branch name>- To create a new branch.
+- **git checkout** <Branch name> - To switch from the branch to the <Branch name>
+- **git merge** <branch name> - To merge the branch into the current branch.git 
+
