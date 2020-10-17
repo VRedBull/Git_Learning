@@ -1,3 +1,5 @@
+# Git
+
 - **git init** - intialize a git repo
   - this command will make a .git folder
 - **git add** <file name> -  Add one or more files to the staging area.
@@ -11,4 +13,8 @@
 - **git branch** <Branch name>- To create a new branch.
 - **git checkout** <Branch name> - To switch from the branch to the <Branch name>
 - **git merge** <branch name> - To merge the branch into the current branch. 
+
+# GitHub
+
+- 
 
