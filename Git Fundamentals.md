@@ -10,5 +10,5 @@
 - **git rm --cached** <file name> - To remove the files from the staging area(Unstage).
 - **git branch** <Branch name>- To create a new branch.
 - **git checkout** <Branch name> - To switch from the branch to the <Branch name>
-- **git merge** <branch name> - To merge the branch into the current branch.git 
+- **git merge** <branch name> - To merge the branch into the current branch.
 
