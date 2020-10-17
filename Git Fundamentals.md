@@ -1,6 +1,7 @@
 - **git init** - intialize a git repo
   - this command will make a .git folder
 - **git add** <file name> -  Add one or more files to the staging area.
+- **git add --all** - to all files in that folder.
 - **git commit** **-m** "*Some kind of commit message*" - Commits the changes to the head. 
 - **git commit -am** "Some message" - Adds and commits the file
 - **git status** - Lists the files you've changed and those you've added.
